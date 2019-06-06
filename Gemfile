@@ -12,6 +12,8 @@ gem 'rails_admin', github: 'sferik/rails_admin'
 gem 'rails_admin_rollincode', '~> 1.0'
 gem "devise"
 gem 'rails_admin_material'
+gem 'bootstrap', '~> 4.3', '>= 4.3.1'
+gem 'material-sass', '~> 4.1', '>= 4.1.1'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
